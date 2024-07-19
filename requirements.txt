@@ -1,0 +1,6 @@
+selenium
+requests
+bs4
+PyMuPDF
+pandas
+alive-progress
